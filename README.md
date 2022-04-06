@@ -3,14 +3,14 @@
                  {
                      name: "Joaquín Marticorena",
                                         
-                     skills: [“frontend-development”, “JavaScript”, "CSS", “React.js”, "Next.js", "React Native", "Ionic", “Redux, “Firebase”, “MongoDB”, “Node.js”],
+                     skills: [“frontend development”, “JavaScript”, "CSS", “React.js”, "Next.js", "Ionic", "React Native", "Ionic", “Redux, “Firebase”, “MongoDB”, “Node.js”],
                      
-                     projects: [“YouTube-clone”, “Spotify-clone”, “Amazon-clone”, “Airbnb-clone”, "MyWeeks with Ionic", "MyWeeks with React Native"],
+                     projects: ["MyWeeks", "BrainMath", "Smart Periodic Table", “YouTube-clone”, “Spotify-clone”, “Amazon-clone”, “Airbnb-clone”],
                     
                      social-media: {
                          gmail: “joamartico@gmail.com”,
-                         LinkedIn: "joamartico",
-                         phone: “1130819511”,
+                         LinkedIn: "Joa Marticorena",
+                         phone: 1130819511,
                      }
                  },
         ],
